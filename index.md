@@ -29,3 +29,9 @@ Some of my goals in life are the following (mark the ones you have done!):
 - [ ] Perform on stage with a musical artist
 - [ ] Buy my parents a mansion
 - [ ] Do a backflip no spotter
+
+Lastly here is a capybara with a hat!
+
+
+
+![Capybara with a Hat](https://images.pexels.com/photos/14191547/pexels-photo-14191547.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
