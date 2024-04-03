@@ -5,6 +5,8 @@ I developed an interest in CS during my last two years of highschool after my in
 ## Personal Life
 I have a wide range of hobbies and interests, this includes:
 > Dance, Cooking, Music, Video Editing, Graphic Design, Sushi
+
 My favorite genres of music include:
 > R&B, Rap, Hip-Hop, Pop-Punk, Indie Rock
+
 One of my favorite cooking channels on YouTube is [You Suck At Cooking](https://www.youtube.com/@yousuckatcooking).
