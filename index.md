@@ -24,7 +24,7 @@ My favorite genres of music include:
 One of my favorite cooking channels on YouTube is [You Suck At Cooking](https://www.youtube.com/@yousuckatcooking). 
 As of recently, [Cherry Coke](images/cherrycoke.jpeg) has become my new favorite soda, but Root Beer is still great though.
 
-Some of my goals in life are the following (mark the ones you have done!):
+Some of my goals in life are the following:
 - [ ] Skydiving
 - [ ] Perform on stage with a musical artist
 - [ ] Buy my parents a mansion
