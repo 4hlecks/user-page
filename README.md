@@ -1,2 +1,2 @@
 # user-page
-CSE 110 GitHub Pages Project
+Alex Atienza's User Page
